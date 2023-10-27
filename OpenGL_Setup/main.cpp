@@ -72,6 +72,7 @@ int main()
 
     // configure global opengl state
     // -----------------------------
+    
     glEnable(GL_DEPTH_TEST);
 
     //Build and compile Shader Program
